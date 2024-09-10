@@ -1,4 +1,0 @@
-/usr/bin/python3 /Users/lillygrogono/git-demo/lilly-grogono/unit-1/lesson-1/business_card_create.py
-lilly-is-cool
-5129392312
-65 5th avenue
